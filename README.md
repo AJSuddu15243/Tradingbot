@@ -1,7 +1,5 @@
 # Tradingbot
 
-# ML Sentiment-Based Trading Bot
-
 ## Overview
 This is an automated trading bot that uses machine learning sentiment analysis on financial news to make trading decisions. The bot analyzes recent news headlines for a specified stock, determines sentiment (positive or negative), and executes buy or sell orders accordingly.
 
