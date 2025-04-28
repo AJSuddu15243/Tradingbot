@@ -16,7 +16,7 @@ This is an automated trading bot that uses machine learning sentiment analysis o
 - Python 3.6+
 - lumibot
 - alpaca-trade-api
-- Custom `finbertutils` module (not included in the code snippet)
+- Custom `finbertutils` module
 
 ## Installation
 1. Clone this repository
